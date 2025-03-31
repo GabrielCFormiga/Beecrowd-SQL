@@ -32,11 +32,11 @@ Repositório com minhas soluções dos problemas de <span style="color:#3CCF4E;"
 | [2620](https://www.beecrowd.com.br/repository/UOJ_2620.html) | Pedidos no Primeiro Semestre | ✔️ Resolvido |
 | [2621](https://www.beecrowd.com.br/repository/UOJ_2621.html) | Quantidades Entre 10 e 20 | ✔️ Resolvido |
 | [2622](https://www.beecrowd.com.br/repository/UOJ_2622.html) | Pessoas Jurídicas | ✔️ Resolvido |
-| [2623](https://www.beecrowd.com.br/repository/UOJ_2623.html) | Categorias com Vários Produtos | ❌ Pendente |
-| [2624](https://www.beecrowd.com.br/repository/UOJ_2624.html) | Quantidades de Cidades por Clientes | ❌ Pendente |
-| [2625](https://www.beecrowd.com.br/repository/UOJ_2625.html) | Máscara de CPF | ❌ Pendente |
-| [2737](https://www.beecrowd.com.br/repository/UOJ_2737.html) | Advogados | ❌ Pendente |
-| [2738](https://www.beecrowd.com.br/repository/UOJ_2738.html) | Concurso | ❌ Pendente |
+| [2623](https://www.beecrowd.com.br/repository/UOJ_2623.html) | Categorias com Vários Produtos | ✔️ Resolvido |
+| [2624](https://www.beecrowd.com.br/repository/UOJ_2624.html) | Quantidades de Cidades por Clientes | ✔️ Resolvido |
+| [2625](https://www.beecrowd.com.br/repository/UOJ_2625.html) | Máscara de CPF | ✔️ Resolvido |
+| [2737](https://www.beecrowd.com.br/repository/UOJ_2737.html) | Advogados |✔️ Resolvido |
+| [2738](https://www.beecrowd.com.br/repository/UOJ_2738.html) | Concurso | ✔️ Resolvido |
 | [2739](https://www.beecrowd.com.br/repository/UOJ_2739.html) | Dia de Pagamento | ❌ Pendente |
 | [2740](https://www.beecrowd.com.br/repository/UOJ_2740.html) | Liga | ❌ Pendente |
 | [2741](https://www.beecrowd.com.br/repository/UOJ_2741.html) | Notas dos Alunos | ❌ Pendente |
