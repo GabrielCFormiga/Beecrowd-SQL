@@ -1,7 +1,7 @@
 # Soluções para os Problemas de SQL do Beecrowd 🐝 
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-brightgreen?style=plastic&logo=postgresql)](https://www.postgresql.org/)
-[![Problemas Resolvidos](https://img.shields.io/badge/Problemas%20Resolvidos-20/50-brightgreen?style=plastic)](https://github.com/potigol/beecrowd/commits/master)
+[![Problemas Resolvidos](https://img.shields.io/badge/Problemas%20Resolvidos-27/50-brightgreen?style=plastic)](https://github.com/potigol/beecrowd/commits/master)
 <!--![](https://geps.dev/progress/40)-->
 
 Repositório com minhas soluções dos problemas de <span style="color:#3CCF4E;"><b>SQL</b></span> da plataforma <a href="https://www.beecrowd.com.br/" style="color:#00599C;"><b>beecrowd</b></a> (antigo URI) utilizando <span style="color:#3CCF4E;"><b>PostgreSQL</b></span>.
@@ -37,8 +37,8 @@ Repositório com minhas soluções dos problemas de <span style="color:#3CCF4E;"
 | [2625](https://www.beecrowd.com.br/repository/UOJ_2625.html) | Máscara de CPF | ✔️ Resolvido |
 | [2737](https://www.beecrowd.com.br/repository/UOJ_2737.html) | Advogados |✔️ Resolvido |
 | [2738](https://www.beecrowd.com.br/repository/UOJ_2738.html) | Concurso | ✔️ Resolvido |
-| [2739](https://www.beecrowd.com.br/repository/UOJ_2739.html) | Dia de Pagamento | ❌ Pendente |
-| [2740](https://www.beecrowd.com.br/repository/UOJ_2740.html) | Liga | ❌ Pendente |
+| [2739](https://www.beecrowd.com.br/repository/UOJ_2739.html) | Dia de Pagamento | ✔️ Resolvido |
+| [2740](https://www.beecrowd.com.br/repository/UOJ_2740.html) | Liga | ✔️ Resolvido |
 | [2741](https://www.beecrowd.com.br/repository/UOJ_2741.html) | Notas dos Alunos | ❌ Pendente |
 | [2742](https://www.beecrowd.com.br/repository/UOJ_2742.html) | O Multiverso de Richard | ❌ Pendente |
 | [2743](https://www.beecrowd.com.br/repository/UOJ_2743.html) | Quantidade de Caracteres | ❌ Pendente |
